@@ -24,7 +24,7 @@ Databases: PostgreSQL, Microsoft SQL Server, SQL
 
 Tools & Concepts: Git, GitHub, Postman, OOP, Data Structures
 
-Other: Python (Pygame), C# (basics), Windows Server (AD, DNS)
+Other: Python (Pygame), Windows Server (AD, DNS)
 
 📫 How to reach me:
 
