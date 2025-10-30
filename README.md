@@ -1,28 +1,28 @@
-Cześć, jestem Kacper! 👋
+Hi there, I'm Kacper! 👋
 
-Jestem studentem 3. roku informatyki z Krakowa, aktywnie poszukującym stażu w obszarze software development. Pasjonuję się budowaniem kompletnych aplikacji full-stack, skupiając się głównie na Java (Spring Boot) po stronie backendu oraz React (JS/TS) na frontendzie. Interesuję się również cyberbezpieczeństwem.
+I'm a 3rd-year Computer Science student from Cracow, Poland, actively seeking an internship in software development. I'm passionate about building complete full-stack applications, focusing primarily on Java (Spring Boot) for the backend and React (TypeScript) for the frontend. I also have a strong interest in cybersecurity (TryHackMe).
 
-🔭 Moje Główne Projekty:
+🔭 My Main Projects:
 
 FitMate (Full Stack): Spring Boot, PostgreSQL, React, TypeScript
 
 Room Reservation (Full Stack): Spring Boot (w/ JWT), React
 
-Coin Runner (Pygame): Python, Pygame, OOP (Projekt 2D)
+Coin Runner (Pygame): Python, Pygame, OOP (2D Project)
 
 CarRent (JS/Express): Express.js, Vanilla.js, MS SQL Server
 
-🛠️ Mój Stack Technologiczny:
+🛠️ My Tech Stack:
 
 Backend: Java, Spring Boot, Spring Security (JWT), REST APIs
 
 Frontend: React, TypeScript, JavaScript (ES6+), HTML5/CSS3, Tailwind CSS
 
-Bazy Danych: PostgreSQL, Microsoft SQL Server, SQL
+Databases: PostgreSQL, Microsoft SQL Server, SQL
 
-Narzędzia i Inne: Git, GitHub, Postman, OOP, Python, Windows Server (AD, DNS)
+Tools & Other: Git, GitHub, Postman, OOP, Python, Windows Server (AD, DNS)
 
-📫 Kontakt:
+📫 How to reach me:
 
 LinkedIn:
 https://www.linkedin.com/in/kacper-smietana/
