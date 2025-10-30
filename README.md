@@ -1,33 +1,28 @@
-Hi there, I'm Kacper! 👋
+Cześć, jestem Kacper! 👋
 
-I'm a 3rd-year Computer Science student from Cracow, Poland, currently seeking an internship in software development.
+Jestem studentem 3. roku informatyki z Krakowa, aktywnie poszukującym stażu w obszarze software development. Pasjonuję się budowaniem kompletnych aplikacji full-stack, skupiając się głównie na Java (Spring Boot) po stronie backendu oraz React (JS/TS) na frontendzie. Interesuję się również cyberbezpieczeństwem.
 
-I am passionate about building complete, full-stack applications from scratch. My primary focus is on the Java (Spring Boot) ecosystem for the backend and React (TypeScript) for the frontend. I also have a strong interest in cybersecurity, which I explore on platforms like TryHackMe.
+🔭 Moje Główne Projekty:
 
-🔭 My Key Projects:
+FitMate (Full Stack): Spring Boot, PostgreSQL, React, TypeScript
 
-FitMate (Full Stack): My flagship project – a complete gym workout tracker built with Spring Boot, PostgreSQL, React, and TypeScript.
+Room Reservation (Full Stack): Spring Boot (w/ JWT), React
 
-Room Reservation (Full Stack): A secure room booking app using Spring Boot (w/ JWT) and React.
+Coin Runner (Pygame): Python, Pygame, OOP (Projekt 2D)
 
-Coin Runner (Pygame): A 2D platformer game in Python, demonstrating OOP design, game physics, and asset management.
+CarRent (JS/Express): Express.js, Vanilla.js, MS SQL Server
 
-CarRent (JS/Express): A university project using Express.js, Vanilla.js, and Microsoft SQL Server.
-
-🛠️ My Tech Stack:
+🛠️ Mój Stack Technologiczny:
 
 Backend: Java, Spring Boot, Spring Security (JWT), REST APIs
 
-Frontend: React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+Frontend: React, TypeScript, JavaScript (ES6+), HTML5/CSS3, Tailwind CSS
 
-Databases: PostgreSQL, Microsoft SQL Server, SQL
+Bazy Danych: PostgreSQL, Microsoft SQL Server, SQL
 
-Tools & Concepts: Git, GitHub, Postman, OOP, Data Structures
+Narzędzia i Inne: Git, GitHub, Postman, OOP, Python, Windows Server (AD, DNS)
 
-Other: Python (Pygame), Windows Server (AD, DNS)
+📫 Kontakt:
 
-📫 How to reach me:
-
-LinkedIn: https://www.linkedin.com/in/kacper-smietana/
-
-TryHackMe: https://tryhackme.com/p/Kacp3rcr3am
+LinkedIn:
+https://www.linkedin.com/in/kacper-smietana/
