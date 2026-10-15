@@ -1,6 +1,6 @@
 Hi there, I'm Kacper! 👋
 
-I'm a 3rd-year Computer Science student from Cracow, Poland and a Software Developer Intern. I'm passionate about building complete full-stack applications, focusing primarily on Java (Spring Boot) for the backend and React (TypeScript) for the frontend. I also have a strong interest in cybersecurity.
+I'm a 4th-year Computer Science student from Cracow, Poland and a Software Developer. I'm passionate about building complete full-stack applications, focusing primarily on Java (Spring Boot) for the backend and React (TypeScript) for the frontend. I also have a strong interest in cybersecurity.
 
 🔭 My Main Projects:
 
